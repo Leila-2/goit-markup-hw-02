@@ -116,6 +116,6 @@ body {
   letter-spacing: 0.03em;
   color: var(--primary-color);
 }
-text.address {
+.text.address {
   color: #ffffff;
 }
