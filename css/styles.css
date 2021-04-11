@@ -24,6 +24,9 @@ body {
 .link.nav {
   color: var(--secondary-color);
 }
+.link.nav.current {
+  color: var(--accent-color);
+}
 .link:hover,
 .link:focus,
 .link:active {
