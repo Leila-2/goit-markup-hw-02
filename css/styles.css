@@ -122,3 +122,22 @@ body {
 .text.address {
   color: #ffffff;
 }
+.button-menu {
+  background: var(--secondary-bg);
+  border-radius: 4px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+  align-items: center;
+}
+.button-menu:hover,
+.button-menu:focus {
+  background-color: var(--accent-color);
+  color: #ffffff;
+}
+.menu {
+  text-align: center;
+  align-items: center;
+}
