@@ -14,12 +14,13 @@ body {
   font-size: 16px;
   letter-spacing: 0.03em;
   color: var(--primary-color);
-  font-weight: normal;
+  font-weight: 400;
 }
 .link {
   color: inherit;
   text-decoration: none;
   line-height: 1.43;
+  font-weight: 500;
 }
 .link.nav {
   color: var(--secondary-color);
@@ -66,7 +67,7 @@ body {
 .button {
   font-size: 16px;
   line-height: 1.87;
-  font-weight: bold;
+  font-weight: 700;
   display: flex;
   align-items: center;
   text-align: center;
@@ -102,6 +103,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--secondary-color);
+  font-weight: 700;
 }
 .team-names {
   font-weight: 500;
@@ -131,6 +133,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   align-items: center;
+  font-weight: 500;
 }
 .button-menu:hover,
 .button-menu:focus {
